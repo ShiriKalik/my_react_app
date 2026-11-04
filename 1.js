@@ -1,1 +1,5 @@
 "hello world!!"
+"my name is shiri"
+"my last_name is kalikshtein"
+"hi"
+"bi"
