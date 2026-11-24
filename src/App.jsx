@@ -4,6 +4,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
 import Parent from './Components/Parent'
+import School from './Components/School'
+import Events_Handlers from './Components/Events_Handlers'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -11,7 +13,9 @@ function App() {
   return (
     <>
    
-    <Parent> </Parent>
+    {/* <Parent> </Parent> */}
+    {/* <School></School> */}
+    <Events_Handlers></Events_Handlers>
     </>
   )
 }
